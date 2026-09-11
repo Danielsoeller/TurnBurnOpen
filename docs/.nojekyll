@@ -1,0 +1,1 @@
+Hier wird die Öffenltliche Version, mit einem Sauberen Git Tree zu meiner Burn App, bereit gestellt werden, erstmal wird nur die Datenschutzerklräung hier bereit gesetllt werden.
